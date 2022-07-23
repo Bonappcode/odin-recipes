@@ -12,3 +12,4 @@ BonApp is back!
 Following Odin Projects instructions to build the start of the recipe pages web site. 
 Whilst building these simple pages I have become familiar with VSCode and I have gotten quicker and less prone to mistakes. Also learnt a few helpful shortcuts and features VSCode has.
 We have covered adding links, images and how to make it all functional.
+I have also added a few comments in to the html to remind me of some ideas I had whilst building the pages to Odin Projects specifications. 
