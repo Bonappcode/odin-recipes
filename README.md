@@ -13,3 +13,5 @@ Following Odin Projects instructions to build the start of the recipe pages web 
 Whilst building these simple pages I have become familiar with VSCode and I have gotten quicker and less prone to mistakes. Also learnt a few helpful shortcuts and features VSCode has.
 We have covered adding links, images and how to make it all functional.
 I have also added a few comments in to the html to remind me of some ideas I had whilst building the pages to Odin Projects specifications. 
+
+I'm going to borrow some images from various sources inlcuding a friends cafe's website Cafe Chaud Morzine, thanks Kyle! I'm doing this to save time on the graphics and design side of things. I primarily want to get to grips with the language side of thigns without spending hours agonizing over a logo, title or names. 
