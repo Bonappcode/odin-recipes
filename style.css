@@ -1,12 +1,21 @@
+html {
+  background: url("recipe-images/vineyard-background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: lightgoldenrodyellow;
+}
+
 header {
   line-height: 0%;
   padding: 0.01%;
   background-image: url("recipe-images/ItalianFlag.jpeg");
   background-size: 100%;
+  background-color: rgba(0, 128, 0, 0.386);
 }
 
 body {
-  background-color: silver;
   text-align: center;
 }
 
@@ -15,7 +24,7 @@ h1 {
 }
 
 div {
- background-color: grey;
+ background-color: rgba(49, 102, 45, 0.431);
  margin: 50px;
 }
 
