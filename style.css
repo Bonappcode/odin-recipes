@@ -15,9 +15,10 @@ a {
 header {
   line-height: 0%;
   padding: 0.01%;
+  margin: 20px;
   background-image: url("recipe-images/ItalianFlag.jpeg");
   background-size: 100%;
-  background-color: rgba(0, 128, 0, 0.386);
+  color: darkslategray;
   /*add dark slate grey to header text*/
 }
 
@@ -27,6 +28,10 @@ body {
 
 h1 {
   font-size: 100px;
+}
+
+h3 {
+  font-weight: 900;
 }
 
 #title, dt{
@@ -40,8 +45,8 @@ img {
 .link-text {
   padding-left: 100px;
   padding-right: 100px;
-  font-family: 'Courier New', Courier, monospace;
-  color: whitesmoke;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgba(255, 255, 255, 0.715);
 }
 
 .centered {
@@ -55,5 +60,5 @@ img {
   position: relative;
   text-align: center;
   color: white;
+  padding: 20px;
 }
-
