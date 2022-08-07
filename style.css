@@ -18,6 +18,7 @@ header {
   background-image: url("recipe-images/ItalianFlag.jpeg");
   background-size: 100%;
   background-color: rgba(0, 128, 0, 0.386);
+  /*add dark slate grey to header text*/
 }
 
 body {
@@ -28,12 +29,31 @@ h1 {
   font-size: 100px;
 }
 
-div {
- background-color: rgba(49, 102, 45, 0.431);
- margin: 50px;
+#title, dt{
+  font-family: Brush Script MT, 'Times New Roman', Times, serif; 
 }
 
-.title, dt{
-  font-family: Brush Script MT, 'Times New Roman', Times, serif; 
+img {
+  opacity: 0.5;
+}
+
+.link-text {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Courier New', Courier, monospace;
+  color: darkslategray;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
