@@ -38,27 +38,24 @@ h3 {
   font-family: Brush Script MT, 'Times New Roman', Times, serif; 
 }
 
-img {
-  opacity: 0.5;
-}
-
-.link-text {
+.select .link-text {
   padding-left: 100px;
   padding-right: 100px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: rgba(255, 255, 255, 0.715);
+  color: rgb(0, 0, 0);
 }
 
-.centered {
+.select .centered {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-.container {
+.select .container {
   position: relative;
   text-align: center;
-  color: white;
   padding: 20px;
+  opacity: 0.7;
 }
+
