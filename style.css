@@ -7,6 +7,11 @@ html {
   background-color: lightgoldenrodyellow;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 header {
   line-height: 0%;
   padding: 0.01%;
@@ -28,6 +33,7 @@ div {
  margin: 50px;
 }
 
-.title {
-  font-family: Brush Script MT, 'Times New Roman', Times, serif;
+.title, dt{
+  font-family: Brush Script MT, 'Times New Roman', Times, serif; 
 }
+
